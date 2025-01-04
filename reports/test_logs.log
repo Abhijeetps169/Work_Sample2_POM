@@ -1,0 +1,600 @@
+2024-12-22 23:35:42,351 - root - INFO - Logging initialized.
+2024-12-22 23:35:42,529 - root - INFO - Test session started.
+2024-12-22 23:35:45,861 - tests.test_checkout - INFO - Opening SauceDemo website.
+2024-12-22 23:35:46,887 - tests.test_checkout - INFO - Logging into SauceDemo.
+2024-12-22 23:35:46,888 - LoginPage - INFO - Attempting to log in with username: standard_user
+2024-12-22 23:35:47,213 - LoginPage - INFO - Clicked the login button.
+2024-12-22 23:35:47,214 - tests.test_checkout - INFO - Adding items to the cart.
+2024-12-22 23:35:47,214 - InventoryPage - INFO - Adding items to the cart.
+2024-12-22 23:35:47,285 - InventoryPage - INFO - Added item 1 to the cart.
+2024-12-22 23:35:47,334 - InventoryPage - INFO - Added item 2 to the cart.
+2024-12-22 23:35:47,334 - InventoryPage - INFO - Finished adding items to the cart.
+2024-12-22 23:35:47,334 - tests.test_checkout - INFO - Navigating to the cart.
+2024-12-22 23:35:47,334 - InventoryPage - INFO - Navigating to the cart page.
+2024-12-22 23:35:47,399 - InventoryPage - INFO - Navigated to the cart page.
+2024-12-22 23:35:47,399 - tests.test_checkout - INFO - Proceeding to checkout.
+2024-12-22 23:35:47,400 - CartPage - INFO - Clicking the checkout button.
+2024-12-22 23:35:47,496 - CartPage - INFO - Proceeded to the checkout page.
+2024-12-22 23:35:47,496 - tests.test_checkout - INFO - Entering shipping details.
+2024-12-22 23:35:47,496 - CheckoutPage - INFO - Entering shipping details.
+2024-12-22 23:35:47,586 - CheckoutPage - INFO - Entered first name: John
+2024-12-22 23:35:47,653 - CheckoutPage - INFO - Entered last name: Doe
+2024-12-22 23:35:47,726 - CheckoutPage - INFO - Entered postal code: 12345
+2024-12-22 23:35:47,800 - CheckoutPage - INFO - Clicked the continue button.
+2024-12-22 23:35:47,801 - tests.test_checkout - INFO - Completing the checkout process.
+2024-12-22 23:35:47,801 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2024-12-22 23:35:47,864 - CheckoutPage - INFO - Checkout completed successfully.
+2024-12-22 23:35:47,868 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2024-12-22 23:35:47,870 - root - INFO - Test session completed.
+2024-12-22 23:40:19,930 - root - INFO - Logging initialized.
+2024-12-22 23:40:20,122 - root - INFO - Test session started.
+2024-12-22 23:40:21,880 - tests.test_checkout - INFO - Opening SauceDemo website.
+2024-12-22 23:40:22,825 - tests.test_checkout - INFO - Logging into SauceDemo.
+2024-12-22 23:40:22,825 - LoginPage - INFO - Attempting to log in with username: standard_user
+2024-12-22 23:40:23,230 - LoginPage - INFO - Clicked the login button.
+2024-12-22 23:40:23,231 - tests.test_checkout - INFO - Adding items to the cart.
+2024-12-22 23:40:23,231 - InventoryPage - INFO - Adding items to the cart.
+2024-12-22 23:40:23,311 - InventoryPage - INFO - Added item 1 to the cart.
+2024-12-22 23:40:23,375 - InventoryPage - INFO - Added item 2 to the cart.
+2024-12-22 23:40:23,375 - InventoryPage - INFO - Finished adding items to the cart.
+2024-12-22 23:40:23,376 - tests.test_checkout - INFO - Navigating to the cart.
+2024-12-22 23:40:23,376 - InventoryPage - INFO - Navigating to the cart page.
+2024-12-22 23:40:23,467 - InventoryPage - INFO - Navigated to the cart page.
+2024-12-22 23:40:23,467 - tests.test_checkout - INFO - Proceeding to checkout.
+2024-12-22 23:40:23,468 - CartPage - INFO - Clicking the checkout button.
+2024-12-22 23:40:23,537 - CartPage - INFO - Proceeded to the checkout page.
+2024-12-22 23:40:23,537 - tests.test_checkout - INFO - Entering shipping details.
+2024-12-22 23:40:23,538 - CheckoutPage - INFO - Entering shipping details.
+2024-12-22 23:40:23,593 - CheckoutPage - INFO - Entered first name: John
+2024-12-22 23:40:23,641 - CheckoutPage - INFO - Entered last name: Doe
+2024-12-22 23:40:23,690 - CheckoutPage - INFO - Entered postal code: 12345
+2024-12-22 23:40:23,788 - CheckoutPage - INFO - Clicked the continue button.
+2024-12-22 23:40:23,788 - tests.test_checkout - INFO - Completing the checkout process.
+2024-12-22 23:40:23,788 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2024-12-22 23:40:23,844 - CheckoutPage - INFO - Checkout completed successfully.
+2024-12-22 23:40:23,849 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2024-12-22 23:40:23,851 - root - INFO - Test session completed.
+2024-12-22 23:40:43,481 - root - INFO - Logging initialized.
+2024-12-22 23:40:43,622 - root - INFO - Test session started.
+2024-12-22 23:40:45,608 - tests.test_checkout - INFO - Opening SauceDemo website.
+2024-12-22 23:40:46,563 - tests.test_checkout - INFO - Logging into SauceDemo.
+2024-12-22 23:40:46,563 - LoginPage - INFO - Attempting to log in with username: standard_user
+2024-12-22 23:40:46,837 - LoginPage - INFO - Clicked the login button.
+2024-12-22 23:40:46,837 - tests.test_checkout - INFO - Adding items to the cart.
+2024-12-22 23:40:46,838 - InventoryPage - INFO - Adding items to the cart.
+2024-12-22 23:40:46,921 - InventoryPage - INFO - Added item 1 to the cart.
+2024-12-22 23:40:46,978 - InventoryPage - INFO - Added item 2 to the cart.
+2024-12-22 23:40:46,978 - InventoryPage - INFO - Finished adding items to the cart.
+2024-12-22 23:40:46,978 - tests.test_checkout - INFO - Navigating to the cart.
+2024-12-22 23:40:46,979 - InventoryPage - INFO - Navigating to the cart page.
+2024-12-22 23:40:47,037 - InventoryPage - INFO - Navigated to the cart page.
+2024-12-22 23:40:47,037 - tests.test_checkout - INFO - Proceeding to checkout.
+2024-12-22 23:40:47,037 - CartPage - INFO - Clicking the checkout button.
+2024-12-22 23:40:47,099 - CartPage - INFO - Proceeded to the checkout page.
+2024-12-22 23:40:47,100 - tests.test_checkout - INFO - Entering shipping details.
+2024-12-22 23:40:47,100 - CheckoutPage - INFO - Entering shipping details.
+2024-12-22 23:40:47,164 - CheckoutPage - INFO - Entered first name: John
+2024-12-22 23:40:47,228 - CheckoutPage - INFO - Entered last name: Doe
+2024-12-22 23:40:47,281 - CheckoutPage - INFO - Entered postal code: 12345
+2024-12-22 23:40:47,369 - CheckoutPage - INFO - Clicked the continue button.
+2024-12-22 23:40:47,369 - tests.test_checkout - INFO - Completing the checkout process.
+2024-12-22 23:40:47,370 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2024-12-22 23:40:47,457 - CheckoutPage - INFO - Checkout completed successfully.
+2024-12-22 23:40:47,528 - root - INFO - Test session completed.
+2024-12-22 23:45:46,778 - root - INFO - Logging initialized.
+2024-12-22 23:45:46,916 - root - INFO - Test session started.
+2024-12-22 23:45:49,395 - tests.test_checkout - INFO - Opening SauceDemo website.
+2024-12-22 23:45:50,831 - tests.test_checkout - INFO - Logging into SauceDemo.
+2024-12-22 23:45:50,831 - LoginPage - INFO - Attempting to log in with username: standard_user
+2024-12-22 23:45:51,053 - LoginPage - INFO - Clicked the login button.
+2024-12-22 23:45:51,054 - tests.test_checkout - INFO - Adding items to the cart.
+2024-12-22 23:45:51,054 - InventoryPage - INFO - Adding items to the cart.
+2024-12-22 23:45:51,111 - InventoryPage - INFO - Added item 1 to the cart.
+2024-12-22 23:45:51,153 - InventoryPage - INFO - Added item 2 to the cart.
+2024-12-22 23:45:51,153 - InventoryPage - INFO - Finished adding items to the cart.
+2024-12-22 23:45:51,153 - tests.test_checkout - INFO - Navigating to the cart.
+2024-12-22 23:45:51,153 - InventoryPage - INFO - Navigating to the cart page.
+2024-12-22 23:45:51,221 - InventoryPage - INFO - Navigated to the cart page.
+2024-12-22 23:45:51,221 - tests.test_checkout - INFO - Proceeding to checkout.
+2024-12-22 23:45:51,222 - CartPage - INFO - Clicking the checkout button.
+2024-12-22 23:45:51,310 - CartPage - INFO - Proceeded to the checkout page.
+2024-12-22 23:45:51,310 - tests.test_checkout - INFO - Entering shipping details.
+2024-12-22 23:45:51,311 - CheckoutPage - INFO - Entering shipping details.
+2024-12-22 23:45:51,365 - CheckoutPage - INFO - Entered first name: John
+2024-12-22 23:45:51,418 - CheckoutPage - INFO - Entered last name: Doe
+2024-12-22 23:45:51,469 - CheckoutPage - INFO - Entered postal code: 12345
+2024-12-22 23:45:51,543 - CheckoutPage - INFO - Clicked the continue button.
+2024-12-22 23:45:51,543 - tests.test_checkout - INFO - Completing the checkout process.
+2024-12-22 23:45:51,544 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2024-12-22 23:45:51,612 - CheckoutPage - INFO - Checkout completed successfully.
+2024-12-22 23:45:51,800 - root - INFO - Screenshot saved: reports/screenshots\test_end_to_end_checkout.png
+2024-12-22 23:45:54,093 - root - INFO - Test session completed.
+2024-12-22 23:46:20,370 - root - INFO - Logging initialized.
+2024-12-22 23:46:20,512 - root - INFO - Test session started.
+2024-12-22 23:46:22,126 - tests.test_checkout - INFO - Opening SauceDemo website.
+2024-12-22 23:46:22,994 - tests.test_checkout - INFO - Logging into SauceDemo.
+2024-12-22 23:46:22,995 - LoginPage - INFO - Attempting to log in with username: standard_user
+2024-12-22 23:46:23,267 - LoginPage - INFO - Clicked the login button.
+2024-12-22 23:46:23,267 - tests.test_checkout - INFO - Adding items to the cart.
+2024-12-22 23:46:23,268 - InventoryPage - INFO - Adding items to the cart.
+2024-12-22 23:46:23,343 - InventoryPage - INFO - Added item 1 to the cart.
+2024-12-22 23:46:23,399 - InventoryPage - INFO - Added item 2 to the cart.
+2024-12-22 23:46:23,399 - InventoryPage - INFO - Finished adding items to the cart.
+2024-12-22 23:46:23,399 - tests.test_checkout - INFO - Navigating to the cart.
+2024-12-22 23:46:23,400 - InventoryPage - INFO - Navigating to the cart page.
+2024-12-22 23:46:23,455 - InventoryPage - INFO - Navigated to the cart page.
+2024-12-22 23:46:23,456 - tests.test_checkout - INFO - Proceeding to checkout.
+2024-12-22 23:46:23,456 - CartPage - INFO - Clicking the checkout button.
+2024-12-22 23:46:23,541 - CartPage - INFO - Proceeded to the checkout page.
+2024-12-22 23:46:23,541 - tests.test_checkout - INFO - Entering shipping details.
+2024-12-22 23:46:23,542 - CheckoutPage - INFO - Entering shipping details.
+2024-12-22 23:46:23,597 - CheckoutPage - INFO - Entered first name: John
+2024-12-22 23:46:23,646 - CheckoutPage - INFO - Entered last name: Doe
+2024-12-22 23:46:23,698 - CheckoutPage - INFO - Entered postal code: 12345
+2024-12-22 23:46:23,768 - CheckoutPage - INFO - Clicked the continue button.
+2024-12-22 23:46:23,768 - tests.test_checkout - INFO - Completing the checkout process.
+2024-12-22 23:46:23,769 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2024-12-22 23:46:23,830 - CheckoutPage - INFO - Checkout completed successfully.
+2024-12-22 23:46:23,834 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2024-12-22 23:46:26,091 - root - INFO - Test session completed.
+2024-12-23 22:20:56,091 - root - INFO - Logging initialized.
+2024-12-23 22:20:56,499 - root - INFO - Test session started.
+2024-12-23 22:20:58,969 - tests.test_checkout - INFO - Opening SauceDemo website.
+2024-12-23 22:20:59,864 - tests.test_checkout - INFO - Logging into SauceDemo.
+2024-12-23 22:20:59,864 - LoginPage - INFO - Attempting to log in with username: standard_user
+2024-12-23 22:21:00,290 - LoginPage - INFO - Clicked the login button.
+2024-12-23 22:21:00,290 - tests.test_checkout - INFO - Adding items to the cart.
+2024-12-23 22:21:00,291 - InventoryPage - INFO - Adding items to the cart.
+2024-12-23 22:21:00,405 - InventoryPage - INFO - Added item 1 to the cart.
+2024-12-23 22:21:00,486 - InventoryPage - INFO - Added item 2 to the cart.
+2024-12-23 22:21:00,486 - InventoryPage - INFO - Finished adding items to the cart.
+2024-12-23 22:21:00,486 - tests.test_checkout - INFO - Navigating to the cart.
+2024-12-23 22:21:00,487 - InventoryPage - INFO - Navigating to the cart page.
+2024-12-23 22:21:00,582 - InventoryPage - INFO - Navigated to the cart page.
+2024-12-23 22:21:00,582 - tests.test_checkout - INFO - Proceeding to checkout.
+2024-12-23 22:21:00,582 - CartPage - INFO - Clicking the checkout button.
+2024-12-23 22:21:00,662 - CartPage - INFO - Proceeded to the checkout page.
+2024-12-23 22:21:00,662 - tests.test_checkout - INFO - Entering shipping details.
+2024-12-23 22:21:00,663 - CheckoutPage - INFO - Entering shipping details.
+2024-12-23 22:21:00,729 - CheckoutPage - INFO - Entered first name: John
+2024-12-23 22:21:00,788 - CheckoutPage - INFO - Entered last name: Doe
+2024-12-23 22:21:00,851 - CheckoutPage - INFO - Entered postal code: 12345
+2024-12-23 22:21:00,943 - CheckoutPage - INFO - Clicked the continue button.
+2024-12-23 22:21:00,944 - tests.test_checkout - INFO - Completing the checkout process.
+2024-12-23 22:21:00,944 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2024-12-23 22:21:01,008 - CheckoutPage - INFO - Checkout completed successfully.
+2024-12-23 22:21:01,016 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2024-12-23 22:21:03,286 - root - INFO - Test session completed.
+2025-01-03 19:21:41,517 - root - INFO - Logging initialized.
+2025-01-03 19:21:41,983 - root - INFO - Test session started.
+2025-01-03 19:21:44,044 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-03 19:21:45,565 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-03 19:21:45,566 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-03 19:21:45,854 - LoginPage - INFO - Clicked the login button.
+2025-01-03 19:21:45,855 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-03 19:21:45,855 - InventoryPage - INFO - Adding items to the cart.
+2025-01-03 19:21:45,976 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-03 19:21:46,061 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-03 19:21:46,061 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-03 19:21:46,061 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-03 19:21:46,061 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-03 19:21:46,136 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-03 19:21:46,136 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-03 19:21:46,136 - CartPage - INFO - Clicking the checkout button.
+2025-01-03 19:21:46,206 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-03 19:21:46,206 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-03 19:21:46,207 - CheckoutPage - INFO - Entering shipping details.
+2025-01-03 19:21:46,274 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-03 19:21:46,342 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-03 19:21:46,401 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-03 19:21:46,480 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-03 19:21:46,481 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-03 19:21:46,481 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-03 19:21:46,547 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-03 19:21:46,552 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2025-01-03 19:21:48,796 - root - INFO - Test session completed.
+2025-01-04 13:26:28,921 - root - INFO - Logging initialized.
+2025-01-04 13:26:29,196 - root - INFO - Test session started.
+2025-01-04 13:26:33,358 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:26:34,478 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:26:34,478 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:26:34,738 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:26:34,738 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:26:34,739 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:26:34,805 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:26:34,852 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:26:34,852 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:26:34,852 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:26:34,852 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:26:34,910 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:26:34,911 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:26:34,911 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:26:34,970 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:26:34,970 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:26:34,970 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:26:35,055 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:26:35,110 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:26:35,176 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:26:35,240 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:26:35,240 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:26:35,241 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:26:35,294 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:26:35,300 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2025-01-04 13:26:39,087 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:26:39,986 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:26:39,987 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:26:40,255 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:26:40,256 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:26:40,256 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:26:40,346 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:26:40,420 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:26:40,420 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:26:40,420 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:26:40,421 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:26:40,486 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:26:40,486 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:26:40,486 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:26:40,545 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:26:40,545 - tests.test_checkout - INFO - Verifying total price.
+2025-01-04 13:26:40,545 - tests.test_checkout - ERROR - Test failed due to an error: 'CheckoutPage' object has no attribute 'get_item_total'
+2025-01-04 13:26:44,832 - root - INFO - Screenshot saved: reports/screenshots\test_verify_total_price.png
+2025-01-04 13:26:47,021 - root - INFO - Test session completed.
+2025-01-04 13:48:27,742 - root - INFO - Logging initialized.
+2025-01-04 13:48:27,890 - root - INFO - Test session started.
+2025-01-04 13:48:29,513 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:48:30,634 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:48:30,634 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:48:30,936 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:48:30,936 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:48:30,937 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:48:31,029 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:48:31,100 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:48:31,100 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:48:31,101 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:48:31,101 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:48:31,162 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:48:31,162 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:48:31,162 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:48:31,229 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:48:31,229 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:48:31,229 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:48:31,288 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:48:31,339 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:48:31,388 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:48:31,454 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:48:31,454 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:48:31,454 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:48:31,509 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:48:31,512 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2025-01-04 13:48:35,326 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:48:36,497 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:48:36,497 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:48:36,723 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:48:36,723 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:48:36,723 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:48:36,818 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:48:36,868 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:48:36,868 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:48:36,869 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:48:36,869 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:48:36,966 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:48:36,967 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:48:36,967 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:48:37,030 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:48:37,030 - tests.test_checkout - INFO - Verifying total price.
+2025-01-04 13:48:37,041 - tests.test_checkout - ERROR - Test failed due to an error: Message: no such element: Unable to locate element: {"method":"css selector","selector":".summary_subtotal_label"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF783C2FB05+28789]
+	(No symbol) [0x00007FF783B986E0]
+	(No symbol) [0x00007FF783A3592A]
+	(No symbol) [0x00007FF783A8930E]
+	(No symbol) [0x00007FF783A895FC]
+	(No symbol) [0x00007FF783AD28A7]
+	(No symbol) [0x00007FF783AAF47F]
+	(No symbol) [0x00007FF783ACF654]
+	(No symbol) [0x00007FF783AAF1E3]
+	(No symbol) [0x00007FF783A7A938]
+	(No symbol) [0x00007FF783A7BAA1]
+	GetHandleVerifier [0x00007FF783F6933D+3410093]
+	GetHandleVerifier [0x00007FF783F7E7DD+3497293]
+	GetHandleVerifier [0x00007FF783F72A73+3448803]
+	GetHandleVerifier [0x00007FF783CF7BBB+848171]
+	(No symbol) [0x00007FF783BA3C3F]
+	(No symbol) [0x00007FF783B9F6E4]
+	(No symbol) [0x00007FF783B9F87D]
+	(No symbol) [0x00007FF783B8ED49]
+	BaseThreadInitThunk [0x00007FFEE9FFE8D7+23]
+	RtlUserThreadStart [0x00007FFEEB87FBCC+44]
+
+2025-01-04 13:48:41,319 - root - INFO - Screenshot saved: reports/screenshots\test_verify_total_price.png
+2025-01-04 13:48:43,496 - root - INFO - Test session completed.
+2025-01-04 13:50:09,087 - root - INFO - Logging initialized.
+2025-01-04 13:50:09,235 - root - INFO - Test session started.
+2025-01-04 13:50:10,822 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:50:11,836 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:50:11,836 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:50:12,095 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:50:12,096 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:50:12,096 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:50:12,173 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:50:12,244 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:50:12,244 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:50:12,244 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:50:12,244 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:50:12,304 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:50:12,304 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:50:12,304 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:50:12,363 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:50:12,363 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:50:12,363 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:50:12,424 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:50:12,474 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:50:12,522 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:50:12,590 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:50:12,591 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:50:12,591 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:50:12,647 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:50:12,652 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2025-01-04 13:50:16,441 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:50:17,478 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:50:17,478 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:50:17,738 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:50:17,738 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:50:17,738 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:50:17,799 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:50:17,843 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:50:17,844 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:50:17,844 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:50:17,844 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:50:17,947 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:50:17,947 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:50:17,948 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:50:18,017 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:50:18,017 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:50:18,017 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:50:18,105 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:50:18,164 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:50:18,214 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:50:18,285 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:50:18,285 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:50:18,286 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:50:18,342 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:50:18,342 - tests.test_checkout - INFO - Verifying total price.
+2025-01-04 13:50:18,353 - tests.test_checkout - ERROR - Test failed due to an error: Message: no such element: Unable to locate element: {"method":"css selector","selector":".summary_subtotal_label"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF783C2FB05+28789]
+	(No symbol) [0x00007FF783B986E0]
+	(No symbol) [0x00007FF783A3592A]
+	(No symbol) [0x00007FF783A8930E]
+	(No symbol) [0x00007FF783A895FC]
+	(No symbol) [0x00007FF783AD28A7]
+	(No symbol) [0x00007FF783AAF47F]
+	(No symbol) [0x00007FF783ACF654]
+	(No symbol) [0x00007FF783AAF1E3]
+	(No symbol) [0x00007FF783A7A938]
+	(No symbol) [0x00007FF783A7BAA1]
+	GetHandleVerifier [0x00007FF783F6933D+3410093]
+	GetHandleVerifier [0x00007FF783F7E7DD+3497293]
+	GetHandleVerifier [0x00007FF783F72A73+3448803]
+	GetHandleVerifier [0x00007FF783CF7BBB+848171]
+	(No symbol) [0x00007FF783BA3C3F]
+	(No symbol) [0x00007FF783B9F6E4]
+	(No symbol) [0x00007FF783B9F87D]
+	(No symbol) [0x00007FF783B8ED49]
+	BaseThreadInitThunk [0x00007FFEE9FFE8D7+23]
+	RtlUserThreadStart [0x00007FFEEB87FBCC+44]
+
+2025-01-04 13:50:22,637 - root - INFO - Screenshot saved: reports/screenshots\test_verify_total_price.png
+2025-01-04 13:50:24,830 - root - INFO - Test session completed.
+2025-01-04 13:55:00,584 - root - INFO - Logging initialized.
+2025-01-04 13:55:00,728 - root - INFO - Test session started.
+2025-01-04 13:55:02,313 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:55:04,240 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:55:04,240 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:55:04,504 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:55:04,504 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:55:04,505 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:55:04,572 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:55:04,628 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:55:04,628 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:55:04,628 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:55:04,628 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:55:04,705 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:55:04,705 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:55:04,705 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:55:04,761 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:55:04,761 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:55:04,761 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:55:04,822 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:55:04,875 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:55:04,932 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:55:05,000 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:55:05,001 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:55:05,001 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:55:05,054 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:55:05,057 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2025-01-04 13:55:08,845 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:55:09,898 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:55:09,898 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:55:10,144 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:55:10,144 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:55:10,144 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:55:10,219 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:55:10,285 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:55:10,286 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:55:10,286 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:55:10,286 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:55:10,357 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:55:10,358 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:55:10,358 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:55:10,429 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:55:10,429 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:55:10,429 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:55:10,490 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:55:10,545 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:55:10,593 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:55:10,656 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:55:10,656 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:55:10,656 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:55:10,708 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:55:10,708 - tests.test_checkout - INFO - Verifying total price.
+2025-01-04 13:55:10,720 - tests.test_checkout - ERROR - Test failed due to an error: Message: no such element: Unable to locate element: {"method":"css selector","selector":".summary_subtotal_label"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF783C2FB05+28789]
+	(No symbol) [0x00007FF783B986E0]
+	(No symbol) [0x00007FF783A3592A]
+	(No symbol) [0x00007FF783A8930E]
+	(No symbol) [0x00007FF783A895FC]
+	(No symbol) [0x00007FF783AD28A7]
+	(No symbol) [0x00007FF783AAF47F]
+	(No symbol) [0x00007FF783ACF654]
+	(No symbol) [0x00007FF783AAF1E3]
+	(No symbol) [0x00007FF783A7A938]
+	(No symbol) [0x00007FF783A7BAA1]
+	GetHandleVerifier [0x00007FF783F6933D+3410093]
+	GetHandleVerifier [0x00007FF783F7E7DD+3497293]
+	GetHandleVerifier [0x00007FF783F72A73+3448803]
+	GetHandleVerifier [0x00007FF783CF7BBB+848171]
+	(No symbol) [0x00007FF783BA3C3F]
+	(No symbol) [0x00007FF783B9F6E4]
+	(No symbol) [0x00007FF783B9F87D]
+	(No symbol) [0x00007FF783B8ED49]
+	BaseThreadInitThunk [0x00007FFEE9FFE8D7+23]
+	RtlUserThreadStart [0x00007FFEEB87FBCC+44]
+
+2025-01-04 13:55:15,046 - root - INFO - Screenshot saved: reports/screenshots\test_verify_total_price.png
+2025-01-04 13:55:17,232 - root - INFO - Test session completed.
+2025-01-04 13:57:54,799 - root - INFO - Logging initialized.
+2025-01-04 13:57:54,946 - root - INFO - Test session started.
+2025-01-04 13:57:56,543 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:57:57,828 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:57:57,829 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:57:58,074 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:57:58,074 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:57:58,074 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:57:58,158 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:57:58,213 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:57:58,213 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:57:58,213 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:57:58,213 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:57:58,282 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:57:58,283 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:57:58,283 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:57:58,345 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:57:58,345 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:57:58,345 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:57:58,406 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:57:58,460 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:57:58,509 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:57:58,572 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:57:58,573 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:57:58,573 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:57:58,631 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:57:58,634 - tests.test_checkout - INFO - End-to-end checkout test completed successfully.
+2025-01-04 13:58:02,370 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:58:03,654 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:58:03,654 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:58:03,899 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:58:03,899 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:58:03,899 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:58:03,997 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:58:04,059 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:58:04,060 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:58:04,060 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:58:04,060 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:58:04,121 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:58:04,121 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:58:04,122 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:58:04,186 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:58:04,186 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:58:04,187 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:58:04,249 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:58:04,311 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:58:04,361 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:58:04,436 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:58:04,436 - tests.test_checkout - INFO - Verifying total price.
+2025-01-04 13:58:04,503 - tests.test_checkout - INFO - Total price verification successful.
+2025-01-04 13:58:06,659 - root - INFO - Test session completed.
+2025-01-04 13:59:24,599 - root - INFO - Logging initialized.
+2025-01-04 13:59:24,753 - root - INFO - Test session started.
+2025-01-04 13:59:26,325 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 13:59:27,359 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 13:59:27,360 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 13:59:27,625 - LoginPage - INFO - Clicked the login button.
+2025-01-04 13:59:27,626 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 13:59:27,626 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 13:59:27,713 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 13:59:27,767 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 13:59:27,767 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 13:59:27,767 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 13:59:27,768 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 13:59:27,831 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 13:59:27,831 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 13:59:27,831 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 13:59:27,893 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 13:59:27,894 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 13:59:27,894 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 13:59:27,955 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 13:59:28,007 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 13:59:28,056 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 13:59:28,132 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 13:59:28,132 - tests.test_checkout - INFO - Completing the checkout process.
+2025-01-04 13:59:28,133 - CheckoutPage - INFO - Clicking the finish button to complete checkout.
+2025-01-04 13:59:28,188 - CheckoutPage - INFO - Checkout completed successfully.
+2025-01-04 13:59:28,188 - tests.test_checkout - INFO - Verifying total price.
+2025-01-04 13:59:28,199 - tests.test_checkout - ERROR - Test failed due to an error: Message: no such element: Unable to locate element: {"method":"css selector","selector":".summary_subtotal_label"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF783C2FB05+28789]
+	(No symbol) [0x00007FF783B986E0]
+	(No symbol) [0x00007FF783A3592A]
+	(No symbol) [0x00007FF783A8930E]
+	(No symbol) [0x00007FF783A895FC]
+	(No symbol) [0x00007FF783AD28A7]
+	(No symbol) [0x00007FF783AAF47F]
+	(No symbol) [0x00007FF783ACF654]
+	(No symbol) [0x00007FF783AAF1E3]
+	(No symbol) [0x00007FF783A7A938]
+	(No symbol) [0x00007FF783A7BAA1]
+	GetHandleVerifier [0x00007FF783F6933D+3410093]
+	GetHandleVerifier [0x00007FF783F7E7DD+3497293]
+	GetHandleVerifier [0x00007FF783F72A73+3448803]
+	GetHandleVerifier [0x00007FF783CF7BBB+848171]
+	(No symbol) [0x00007FF783BA3C3F]
+	(No symbol) [0x00007FF783B9F6E4]
+	(No symbol) [0x00007FF783B9F87D]
+	(No symbol) [0x00007FF783B8ED49]
+	BaseThreadInitThunk [0x00007FFEE9FFE8D7+23]
+	RtlUserThreadStart [0x00007FFEEB87FBCC+44]
+
+2025-01-04 13:59:28,427 - root - INFO - Screenshot saved: reports/screenshots\test_verify_total_price.png
+2025-01-04 13:59:30,629 - root - INFO - Test session completed.
+2025-01-04 14:06:36,016 - root - INFO - Logging initialized.
+2025-01-04 14:06:36,162 - root - INFO - Test session started.
+2025-01-04 14:06:37,799 - tests.test_checkout - INFO - Opening SauceDemo website.
+2025-01-04 14:06:39,366 - tests.test_checkout - INFO - Logging into SauceDemo.
+2025-01-04 14:06:39,366 - LoginPage - INFO - Attempting to log in with username: standard_user
+2025-01-04 14:06:39,594 - LoginPage - INFO - Clicked the login button.
+2025-01-04 14:06:39,595 - tests.test_checkout - INFO - Adding items to the cart.
+2025-01-04 14:06:39,595 - InventoryPage - INFO - Adding items to the cart.
+2025-01-04 14:06:39,674 - InventoryPage - INFO - Added item 1 to the cart.
+2025-01-04 14:06:39,721 - InventoryPage - INFO - Added item 2 to the cart.
+2025-01-04 14:06:39,721 - InventoryPage - INFO - Finished adding items to the cart.
+2025-01-04 14:06:39,721 - tests.test_checkout - INFO - Navigating to the cart.
+2025-01-04 14:06:39,721 - InventoryPage - INFO - Navigating to the cart page.
+2025-01-04 14:06:39,796 - InventoryPage - INFO - Navigated to the cart page.
+2025-01-04 14:06:39,796 - tests.test_checkout - INFO - Proceeding to checkout.
+2025-01-04 14:06:39,796 - CartPage - INFO - Clicking the checkout button.
+2025-01-04 14:06:39,877 - CartPage - INFO - Proceeded to the checkout page.
+2025-01-04 14:06:39,877 - tests.test_checkout - INFO - Entering shipping details.
+2025-01-04 14:06:39,877 - CheckoutPage - INFO - Entering shipping details.
+2025-01-04 14:06:39,937 - CheckoutPage - INFO - Entered first name: Abhijeet
+2025-01-04 14:06:39,988 - CheckoutPage - INFO - Entered last name: Shinde
+2025-01-04 14:06:40,034 - CheckoutPage - INFO - Entered postal code: 12345
+2025-01-04 14:06:40,103 - CheckoutPage - INFO - Clicked the continue button.
+2025-01-04 14:06:40,103 - tests.test_checkout - INFO - Verifying total price.
+2025-01-04 14:06:40,149 - tests.test_checkout - INFO - Total price verification successful.
+2025-01-04 14:06:42,356 - root - INFO - Test session completed.
